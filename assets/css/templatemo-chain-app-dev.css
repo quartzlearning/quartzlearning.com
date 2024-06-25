@@ -950,7 +950,7 @@ Banner Style
 }
 
 .main-banner .left-content .white-button a {
-  background-color: #363636;
+  background-color: #292929;
   color: #fff !important;
 }
 
@@ -1988,7 +1988,7 @@ responsive
     margin-right: 0;
   }
   .main-banner .left-content .white-button a {
-    background-color: #fffb00;
+    background-color: #292929;
     color: #fff !important;
   }
   form#contact {
@@ -2113,8 +2113,10 @@ responsive
     padding: 0px 30px;
   }
   footer #search button {
-    background-color: #fff;
-    color: #4b8ef1;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+    color: #292929;
   }
   footer #search input::placeholder { 
     color: #2a2a2a;
